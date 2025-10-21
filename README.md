@@ -71,3 +71,6 @@ This solution is fully containerized and orchestrated using Docker Compose, ensu
 ├── demo.mp4                    # Video walkthrough
 
 └── README.md                   # This file
+
+### Demo Video
+[`- Watch video walkthrough`](https://youtu.be/OHTofutU1B0)
